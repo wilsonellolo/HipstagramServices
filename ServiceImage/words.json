@@ -1,0 +1,76 @@
+{
+  "badWords":[
+    {
+      "word": "mierda"
+    },
+    { 
+      "word": "estupido"
+    },
+    { 
+      "word": "estupida"
+    },
+    { 
+      "word": "maldito"
+    },
+    { 
+      "word": "maldita"
+    },
+    { 
+      "word": "puta"
+    },
+    { 
+      "word": "puto"
+    },
+    { 
+      "word": "idiota"
+    },
+    { 
+      "word": "cerote"
+    },
+    { 
+      "word": "cerota"
+    },
+    { 
+      "word": "serote"
+    },
+    { 
+      "word": "hueco"
+    },
+    { 
+      "word": "marica"
+    },
+    { 
+      "word": "machorra"
+    },
+    { 
+      "word": "nigger"
+    },
+    { 
+      "word": "nigga"
+    },
+    { 
+      "word": "faggot"
+    },
+    { 
+      "word": "dyke"
+    },
+    { 
+      "word": "bitch"
+    },
+    { 
+      "word": "fuck"
+    },
+    { 
+      "word": "fucker"
+    },
+    { 
+      "word": "stupid"
+    },
+    { 
+      "word": "idiot"
+    },
+    { 
+      "word": "imbecil"
+    }
+  ]
+}
